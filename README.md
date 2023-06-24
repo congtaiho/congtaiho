@@ -12,9 +12,9 @@ My name is Cong Tai Ho. I am an M.Sc. in Computer Science, majoring in Artificia
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=ContactManager&theme=radical" />
 </a>    
-<a href="https://github.com/uvipen/ASCII-generator/">
+<a href="https://github.com/congtaiho/Memory-Game/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Memory-Game&theme=merko" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
