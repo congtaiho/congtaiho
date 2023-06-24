@@ -19,7 +19,7 @@ My name is Cong Tai Ho. I am an M.Sc. in Computer Science, majoring in Artificia
 
 <a href="https://github.com/congtaiho/Dealer-Toyota/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Dealer-Toyota&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Dealer-Toyota&theme=cobalt" />
 </a>    
 <a href="https://github.com/uvipen/Super-mario-bros-PPO-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
