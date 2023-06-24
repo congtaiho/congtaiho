@@ -14,7 +14,7 @@ My name is Cong Tai Ho. I am an M.Sc. in Computer Science, majoring in Artificia
 </a>    
 <a href="https://github.com/congtaiho/Memory-Game/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Memory-Game&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Memory-Game&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/uvipen/Super-mario-bros-A3C-pytorch/">
