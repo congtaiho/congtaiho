@@ -34,4 +34,8 @@ My name is Cong Tai Ho. I have over 15 years of experience in sales, marketing a
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Book-Store&theme=dark" />
 </a>
+<a href="https://github.com/congtaiho/Barcelona-Club/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Barcelona-Club&theme=highcontrast" />
+</a>
 
