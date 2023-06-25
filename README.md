@@ -32,7 +32,7 @@ My name is Cong Tai Ho. I am an M.Sc. in Computer Science, majoring in Artificia
 </a>    
 <a href="https://github.com/congtaiho/Book-Store/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Book-Store&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Book-Store&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/uvipen/AirGesture/">
