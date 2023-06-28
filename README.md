@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Cong Tai Ho. I have over 15 years of experience in sales, marketing and distribution management in Vietnam. Currently, I'm trying out a new field that is web programming.I firmly believe that my previous management experience and understanding of customer needs will help me do well in this new field.<br>
+My name is Cong Tai Ho, and I bring over 15 years of experience in sales, marketing, and distribution management in Vietnam. Currently, I am venturing into a new field, specifically web programming. I strongly believe that my extensive background in management, coupled with my understanding of customer needs, will greatly contribute to my success in this new endeavor.<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cong-tai-ho-b02a10a8/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/congtaiho/) 
