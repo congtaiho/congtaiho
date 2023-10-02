@@ -22,7 +22,7 @@
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Django](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=Reactjs)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
