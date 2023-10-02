@@ -7,7 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-congtai.ho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:congtai.ho@gmail.com)](mailto:congtai.ho@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://congtaiho.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+- 📫 How to reach me **congtai.ho@gmail.com**
+- 📄 To know about my experience as a developer click [**My CV**](https://congtaiho.github.io/cv/CV-CTH-VE-S.pdf) 🔥
+  
 
 💻 **Things I love**
 - ReactJS, Angular and NodeJS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
