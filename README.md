@@ -85,7 +85,7 @@
 </a>  
     <a href="https://github.com/congtaiho/congtaiho.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=My-Portfolio&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=congtaiho.github.io&theme=cobalt" />
 </a>  
 </div>
 
