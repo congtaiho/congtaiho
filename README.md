@@ -6,14 +6,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-congtaiho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/cong-tai-ho-b02a10a8/)](https://www.linkedin.com/in/cong-tai-ho-b02a10a8/)
 [![Gmail Badge](https://img.shields.io/badge/-congtai.ho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:congtai.ho@gmail.com)](mailto:congtai.ho@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://congtaiho.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- ReactJS, Angular and NodeJS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
+- UX/ UI/ Front end 🧐
+- Tailwind CSS 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
@@ -21,7 +21,7 @@
     
 🛠**Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
