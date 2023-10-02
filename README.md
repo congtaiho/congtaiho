@@ -44,7 +44,9 @@
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; of the repositories!</h3>
 </div>
-<div >
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
     <a href="https://github.com/congtaiho/Contact-Manager/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Contact-Manager&theme=radical" />
@@ -62,33 +64,40 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Barcelona-Club&theme=highcontrast" />
 </a>
+
+ <a href="https://github.com/congtaiho/Electronics-E-store">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Electronics-E-store&theme=merko" />
+</a>  
 </div>
 
-<div>
+<div style="flex: 1;">
     <a href="https://github.com/congtaiho/Responsive-CSS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Responsive-CSS&theme=merko" />
 </a>    
+  
 <a href="https://github.com/congtaiho/Book-Store/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Book-Store&theme=dark" />
 </a>
+
 <a href="https://github.com/congtaiho/My-Contact/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=My-Contact&theme=highcontrast" />
 </a>
+
 <a href="https://github.com/congtaiho/Love-Song/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Love-Song&theme=radical" />
-</a>  
-    <a href="https://github.com/congtaiho/Electronics-E-store">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Electronics-E-store&theme=merko" />
-</a>  
-    <a href="https://github.com/congtaiho/congtaiho.github.io">
+</a>   
+
+<a href="https://github.com/congtaiho/congtaiho.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=congtaiho.github.io&theme=cobalt" />
 </a>  
 </div>
+</div>
+
 
 
