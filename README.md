@@ -3,8 +3,8 @@
 
 
 ### Hi there, I am Cong Tai Ho 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/cong-tai-ho-b02a10a8/)](https://www.linkedin.com/in/cong-tai-ho-b02a10a8/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:congtai.ho@gmail.com)](mailto:congtai.ho@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-congtaiho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/cong-tai-ho-b02a10a8/)](https://www.linkedin.com/in/cong-tai-ho-b02a10a8/)
+[![Gmail Badge](https://img.shields.io/badge/-congtai.ho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:congtai.ho@gmail.com)](mailto:congtai.ho@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
