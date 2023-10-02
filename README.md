@@ -16,14 +16,14 @@
 - Tailwind CSS 😬
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rajaprerak&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=congtaiho&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
 
 ![Python](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript)
-![Django](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=Reactjs)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+![Django](https://img.shields.io/badge/-ReactJS-000000?style=flat&logo=React)
+![Flask](https://img.shields.io/badge/-Angular-000000?style=flat&logo=Angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
@@ -31,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku)
+![Heroku](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
@@ -42,8 +42,8 @@
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
-
-<a href="https://github.com/congtaiho/Contact-Manager/">
+<div >
+    <a href="https://github.com/congtaiho/Contact-Manager/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Contact-Manager&theme=radical" />
 </a>    
@@ -60,8 +60,10 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Barcelona-Club&theme=highcontrast" />
 </a>
+</div>
 
-<a href="https://github.com/congtaiho/Responsive-CSS/">
+<div>
+    <a href="https://github.com/congtaiho/Responsive-CSS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Responsive-CSS&theme=merko" />
 </a>    
@@ -77,4 +79,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=congtaiho&repo=Love-Song&theme=radical" />
 </a>  
+</div>
+
 
