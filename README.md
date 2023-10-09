@@ -12,7 +12,7 @@
   
 
 💻 **Things I love**
-- ReactJS, Angular and NodeJS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- C#, ReactJS, Angular and NodeJS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
 - UX/ UI/ Front end 🧐
 - Tailwind CSS 😬
