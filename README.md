@@ -8,7 +8,7 @@
 
 - 🎯 Portfolio website: [Portfolio](https://congtaiho.github.io/)
 - 📫 How to reach me **congtai.ho@gmail.com**
-- 📄 To know about my experience as a developer click [**My CV**](https://congtaiho.github.io/cv/CV-CTH-VE-S.pdf) 🔥
+- 📄 To know about my experience as a developer click [**My CV**](https://congtaiho.github.io/cv/CV-CongTaiHo-VE.pdf) 🔥
   
 
 💻 **Things I love**
